@@ -2,7 +2,7 @@ from PIL import Image
 
 def replace(image, old_color, new_color):
     """
-    Replaces one color of an image with another one.
+    A function that replaces one color of an image with another one
 
     image : str
         a string refering to the images file path
